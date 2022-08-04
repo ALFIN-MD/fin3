@@ -45,19 +45,19 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/cekilgans'
-global.sgh = 'https://cekilgans.github.io'
-global.sgc = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
-global.sdc = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
-global.snh = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
+global.sig = 'https://instagram.com/al_vin.233'
+global.sgh = 'https://ALFIN-MD.github.io'
+global.sgc = 'https://linktr.ee/fin222'
+global.sdc = '-'
+global.snh = '-'
 
 /*============== PAYMENT ==============*/
-global.pdana = '089515023118'
-global.povo = '089515023118'
-global.pgopay = '089515023118'
-global.ppulsa = '0895413767627'
-global.ppulsa2 = '088991489057'
-global.psaweria = 'https://saweria.com/DonateBot'
+global.pdana = '081332995497'
+global.povo = '-'
+global.pgopay = '081332995497'
+global.ppulsa = '081332995497'
+global.ppulsa2 = '081944435802'
+global.psaweria = 'https://saweria.co/Rimuru233'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6281332995497'
