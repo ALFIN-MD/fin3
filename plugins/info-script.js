@@ -4,13 +4,13 @@ import fetch from 'node-fetch'
 let handler = async(m, { conn, text, usedPrefix, command }) => {
 let pp = await conn.profilePictureUrl(m.chat).catch(_ => null)
 
-let str = `*https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nNz*`
+let str = `*https://linktr.ee/fin222*`
 let wibu = `https://api.zacros.my.id/randomimg/waifu` 
 let thumb = await(await fetch(wibu)).buffer()
 conn.sendButtonDoc(m.chat, str, wm,'Thankyou','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
     mediaUrl: "https://Instagram.com/al_vin.233",
     mediaType: "VIDEO",
-    description: "https://www.instagram.com/al_vin.233", 
+    description: "https://instagram.com/al_vin.233", 
     title: 'Yui-Chan MultiDevice',
     body: wm,
     thumbnail: thumb,
